@@ -6,7 +6,7 @@ body {
 section {
     display: grid;
     height: 100vh;
-    background: #af3636;
+    background: pink;
 }
 
 h1 {
