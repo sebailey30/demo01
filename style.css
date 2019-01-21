@@ -1,0 +1,16 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+section {
+    display: grid;
+    height: 100vh;
+    background: #000000;
+}
+
+h1 {
+    margin: auto;
+    font: 3rem Roboto, arial;
+    color: #fff;
+}
